@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="title">The brand new way of searching for things to do</h1>
+      </div>
+    </header>
+    
+    {% block content %}
+    {% endblock %}
+    
+  </body>
+</html>

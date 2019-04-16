@@ -10,7 +10,7 @@ geographiclib==1.49
 geopy==1.17.0
 idna==2.7
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2>=2.10.1
 MarkupSafe==1.1.0
 psycopg2==2.7.6.1
 ratelim==0.1.6

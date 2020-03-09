@@ -23,3 +23,5 @@ Run the application:
 python app.py
 ```
 
+## Home page
+![image info](./static/img/home_page.png "Home page of application")
